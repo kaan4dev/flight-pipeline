@@ -5,3 +5,4 @@ python-dotenv==1.0.1
 fastparquet==2024.5.0
 pytest==8.3.2
 pytest-mock==3.14.0
+pyspark==3.5.1
